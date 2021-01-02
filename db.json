@@ -1,0 +1,6 @@
+[
+{'product': 'Shoes', 'price': 35, 'rating': 4.2},
+{'product': 'White Hat', 'price': 21, 'rating': 4.8},
+{'product': 'Red Hat', 'price': 22, 'rating': 3.8},
+{'product': 'Blue Hat', 'price': 24, 'rating': 1.8}
+]
